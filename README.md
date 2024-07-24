@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Muhammad Saif. I am student of Computer Science at FAST University, Peshawar.
+
+
