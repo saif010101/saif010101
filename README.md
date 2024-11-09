@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Muhammad Saif. I am student of Computer Science at FAST University, Peshawar.
+My name is Muhammad Saif and I am pursuing BSCS at FAST University, Peshawar.
 
 
