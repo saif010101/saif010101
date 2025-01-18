@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Muhammad Saif and I am pursuing BSCS at FAST University, Peshawar.
+My name is Muhammad Saif and I am currently pursuing Bachelors in Computer Science at the National University of Computer and Emerging Sciences (NUCES), Peshawar.
+
+- 📫 I am always eager to collaborate, please reach out to me at : saif01100110@gmail.com
 
 
